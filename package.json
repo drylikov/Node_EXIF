@@ -1,0 +1,17 @@
+
+{
+  "name": "exif2",
+  "version": "0.0.1",
+  "description": "EXIF extraction with exiftool",
+  "keywords": [],
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "dependencies": {
+    "shelly": "0.0.3"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "better-assert": "*",
+    "matcha": "~0.3.0"
+  },
+  "main": "index"
+}

@@ -168,4 +168,3 @@ exif(file, function(err, obj){
 
 
 
-

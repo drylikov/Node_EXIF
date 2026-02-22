@@ -1,4 +1,3 @@
-
 # exif
 
   EXIF extraction with exiftool.
@@ -131,7 +130,6 @@ exif(file, function(err, obj){
   "light value": "9.0"
 }
 ```
-
 
 
 
